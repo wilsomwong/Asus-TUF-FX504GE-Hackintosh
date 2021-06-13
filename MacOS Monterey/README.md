@@ -1,6 +1,6 @@
 # Asus-TUF-FX504GE
 #### NOTE : I WON'T NOT RESPONSIBLE FOR ANY PROBLEM IF U MESS MY GUIDE.
-#### Don't Use Blueetooth kexts (It's still not compatible for MacOS Monterey yet)
+### Don't Use Blueetooth kexts (It's still not compatible for MacOS Monterey yet)
 
 ![Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
                                       ** My Dekstop with About This Mac **
