@@ -5,7 +5,7 @@
 ** My Dekstop **
 
 ## Hardware (My Spec)
-- CPU (Processor) : Intel Core i5 - 8300H CoffeeLake 8th
+- CPU (Processor) : Intel Core i5-8300H CoffeeLake 8th
 - GPU (Internal Graphics Card) : Intel Graphics UHD630
 - dGPU (External Graphics Card) : Nvidia GTX1050Ti (4GB GDDR5 VRAM)
 - RAM : DDR4 12GB 2400MHz
@@ -15,11 +15,10 @@
 - WIFI / Bluetooth : Intel Wireless AC9560
 - BIOS System : Dualboot MacOS Monterey + Windows 10
 - Touchpad : ELAN I2C
-- Opencore 7.0 
 
 ## What's Working ?
 - [x] iGPU with disabled dGPU
-- [x] WiFi (100 %Working) / Ethernet (I didn't try but i think it's working)
+- [x] WiFi (100% Working) / Ethernet (I didn't try but i think it's working)
 - [x] Audio, Input/Mic, Output (Not working sometime , restart pc will solve problem)
 - [x] ACPI Display brightness with hot keys / slider
 - [x] Battery Management
@@ -30,6 +29,7 @@
 - [x] System Update
 
 ## Not Working
+- Nvidia GTX1050Ti (Not suppoted)
 - Bluetooth (Just wait new kext to compatible MacOS Monterey)
 - Touchpad and gestures (Have to modify DSDT , but I'm newbie here so it's hard for me)
 - Headphone Jack (Sound a little noisy)
