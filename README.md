@@ -37,13 +37,13 @@ NOTE : I WON'T NOT RESPONSIBLE FOR ANY PROBLEM IF U MESS MY GUIDE.
 ![Screenshot 2021-06-13 at 12 52 06 PM](https://user-images.githubusercontent.com/85815874/121795848-0f843900-cc47-11eb-8b66-eff358a82c7d.png)
 
 # Credits
-Special Thanks to Acidanthera for most of the Kexts.
-Thanks to OpenCore Bootloader.
-Thanks to daliansky for Airportitlwm and Bluetooth kext.
-Thanks to alexandred for VoodooI2C.
-Thanks to RehabMan for ACPI patching guides.
-Thanks to hackintosh-stuff for ComboJack support for ALC255.
-Thanks to Facebook Page called "Hackintosh" , "我和我的黑苹果“.
+- Special Thanks to Acidanthera for most of the Kexts.
+- Thanks to OpenCore Bootloader.
+- Thanks to daliansky for Airportitlwm and Bluetooth kext.
+- Thanks to alexandred for VoodooI2C.
+- Thanks to RehabMan for ACPI patching guides.
+- Thanks to hackintosh-stuff for ComboJack support for ALC255.
+- Thanks to Facebook Page called "Hackintosh" , "我和我的黑苹果“.
 
-I'm glad about community can help us to solve what can't working !!
+I'm glad about community can help us to solve what can't working !! \n
 If any problem solved , Pls inbox me email. (I'll Update GITHUB)
