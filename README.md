@@ -1,0 +1,1 @@
+# Asus-TUF-FX504GE
