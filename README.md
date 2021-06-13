@@ -1,4 +1,4 @@
-# About Asus-TUF-FX504GE-Hackintosh Folder
+# About Asus-TUF-FX504GE-Hackintosh 
 ## Announcement
 - Thanks for visit my Hackintosh folder !
 - Im a Newbie Hackintosher for a well time , so this time i'll share all to your about this computer file.
