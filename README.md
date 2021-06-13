@@ -1,9 +1,9 @@
 # Asus-TUF-FX504GE
-NOTE : I WON'T NOT RESPONSIBLE FOR ANY PROBLEM IF U MESS MY GUIDE.
+#### NOTE : I WON'T NOT RESPONSIBLE FOR ANY PROBLEM IF U MESS MY GUIDE.
 
 ![Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
 
-# Hardware (My Spec)
+## Hardware (My Spec)
 - CPU (Processor) : Intel Core i5 - 8300H CoffeeLake 8th
 - GPU (Internal Graphics Card) : Intel Graphics UHD630
 - dGPU (External Graphics Card) : Nvidia GTX1050Ti (4GB GDDR5 VRAM)
@@ -16,7 +16,7 @@ NOTE : I WON'T NOT RESPONSIBLE FOR ANY PROBLEM IF U MESS MY GUIDE.
 - Touchpad : ELAN I2C
 - Opencore 7.0 
 
-# What's Working ?
+## What's Working ?
 - [x] iGPU with disabled dGPU
 - [x] WiFi (100 %Working) / Ethernet (I didn't try but i think it's working)
 - [x] Audio, Input/Mic, Output (Not working sometime , restart pc will solve problem)
@@ -28,15 +28,15 @@ NOTE : I WON'T NOT RESPONSIBLE FOR ANY PROBLEM IF U MESS MY GUIDE.
 - [x] Native hotkey support with Fn keys
 - [x] System Update
 
-# Not Working
+## Not Working
 - Bluetooth (Just wait new kext to compatible MacOS Monterey)
 - Touchpad and gestures (Have to modify DSDT , but I'm newbie here so it's hard for me)
 - Headphone Jack (Sound a little noisy)
 
-# BenchMark
+## BenchMark
 ![Screenshot 2021-06-13 at 12 52 06 PM](https://user-images.githubusercontent.com/85815874/121795848-0f843900-cc47-11eb-8b66-eff358a82c7d.png)
 
-# Credits
+## Credits
 - Special Thanks to Acidanthera for most of the Kexts.
 - Thanks to OpenCore Bootloader.
 - Thanks to daliansky for Airportitlwm and Bluetooth kext.
