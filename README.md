@@ -7,4 +7,4 @@
 ** If I change my laptop , I will not upgrade this folder anymore. **
 
 ## Update Logs
-- 13/6/21 : Create Folder for MacOS Monterey (Beta) , there are still a lot of bugs.
+- 13/6/21 : Create Folder for MacOS Monterey (Beta) , there are still a lot of bugs waiting for fix .
