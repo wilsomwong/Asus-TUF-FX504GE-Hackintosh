@@ -45,5 +45,5 @@ NOTE : I WON'T NOT RESPONSIBLE FOR ANY PROBLEM IF U MESS MY GUIDE.
 - Thanks to hackintosh-stuff for ComboJack support for ALC255.
 - Thanks to Facebook Page called "Hackintosh" , "我和我的黑苹果“.
 
-I'm glad about community can help us to solve what can't working !! \n
+I'm glad about community can help us to solve what can't working !! 
 If any problem solved , Pls inbox me email. (I'll Update GITHUB)
