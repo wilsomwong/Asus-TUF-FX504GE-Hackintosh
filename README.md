@@ -13,7 +13,7 @@
 ## Update Logs
 - 13/6/21 : Create folder for MacOS Monterey (Beta) and waiting for fixing bug.
 - 17/6/21 : Create new folder (OpenCore 6.5 EFI) that more stable from Opencore 7.0 EFI.
--[x] OpenCore 6.5 EFI fix a lot of bug :
+- [x] OpenCore 6.5 EFI fix a lot of bug :
 1. Trackpad Working 
 2. Sound Working Stable
 3. Less Programe Crash Happen
