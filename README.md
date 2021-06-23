@@ -20,6 +20,6 @@
 4. Platforminfo in OC Configulator doesn't crash anymore
 - Problem :
 1. Opencore unable to upgrade even I replace lastest OC file.
-2. NVRAM reset missing (Although there have a windows choose)
+2. Sleep Dead 
 
 ** Thanks for @Junwei provided EFI file. **
