@@ -13,5 +13,5 @@
 ## Update Logs
 - 13/6/21 : Create folder for MacOS Monterey (Beta) and waiting for fixing bug.
 - 17/6/21 : Create new folder (OpenCore 6.5 EFI) that more stable from Opencore 7.0 EFI.
-- 24/6/21 : Create new folder (OpenCore 7.1 EFI) and delete the OpenCore 6.5 EFI.
+- 24/6/21 : Create new folder (OpenCore 7.1 EFI) improve version from Opencore 6.5 EFI and delete the OpenCore 6.5 EFI.
 
