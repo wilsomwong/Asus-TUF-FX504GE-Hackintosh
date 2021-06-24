@@ -23,20 +23,22 @@
 - [x] Audio, Input/Mic, Output (100 % working on lastest Opencore EFI)
 - [x] ACPI Display brightness with hot keys / slider
 - [x] Battery Management
-- [x] Sleep & Wake
+- [x] Sleep & Wake 
 - [x] WebCam (Not Working after sleep)
 - [x] 3 ports Usb 3.1 & HDMI port (HDMI working in latest Opencore EFI)
 - [x] Native hotkey support with Fn keys
-- [x] System Update
 - [x] Touchpad and gestures (Available in lastest OpenCore EFI) 
+- [x] Hotspot with USB Tethering
+- [x] System Update
 
 
 ## Not Working
 - Nvidia GTX1050Ti (Not suppoted)
-- Bluetooth (Just wait new kext to compatible MacOS Monterey , input lastest bluetooth kext compitable for another MacOS)
+- Bluetooth (Just wait new kext to compatible MacOS Monterey , input latest bluetooth kext compitable for another MacOS)
 
 ## In processing for test working (Give some time for me to test)
 - Headphone Jack 
+- Sleep & Wake (Sleep Death Problem when sleep too long time)
 
 ## BenchMark
 ![Screenshot 2021-06-13 at 12 52 06 PM](https://user-images.githubusercontent.com/85815874/121795848-0f843900-cc47-11eb-8b66-eff358a82c7d.png)
