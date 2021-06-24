@@ -33,9 +33,9 @@
 
 ## Not Working
 - Nvidia GTX1050Ti (Not suppoted)
-- Bluetooth (Just wait new kext to compatible MacOS Monterey)
+- Bluetooth (Just wait new kext to compatible MacOS Monterey , input lastest bluetooth kext compitable for another MacOS)
 
-## Doesn't know Working
+## Doesn't know working (Give some time for me to test)
 - HDMI
 - Headphone Jack 
 
