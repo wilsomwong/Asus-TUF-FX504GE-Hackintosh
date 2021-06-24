@@ -25,10 +25,10 @@
 - [x] Battery Management
 - [x] Sleep & Wake
 - [x] WebCam (Not Working after sleep)
-- [x] 3 ports Usb 3.1 
+- [x] 3 ports Usb 3.1 & HDMI port (HDMI working in latest Opencore EFI)
 - [x] Native hotkey support with Fn keys
 - [x] System Update
-- [x] Touchpad and gestures (Available in lastest OpenCore EFI)
+- [x] Touchpad and gestures (Available in lastest OpenCore EFI) 
 
 
 ## Not Working
@@ -36,7 +36,6 @@
 - Bluetooth (Just wait new kext to compatible MacOS Monterey , input lastest bluetooth kext compitable for another MacOS)
 
 ## In processing for test working (Give some time for me to test)
-- HDMI
 - Headphone Jack 
 
 ## BenchMark
