@@ -25,15 +25,19 @@
 - [x] Battery Management
 - [x] Sleep & Wake
 - [x] WebCam (Not Working after sleep)
-- [x] 3 ports Usb 3.1 & HDMI ports
+- [x] 3 ports Usb 3.1 
 - [x] Native hotkey support with Fn keys
 - [x] System Update
+- [x] Touchpad and gestures (Available in OpenCore 7.1 EFI)
+
 
 ## Not Working
 - Nvidia GTX1050Ti (Not suppoted)
 - Bluetooth (Just wait new kext to compatible MacOS Monterey)
-- Touchpad and gestures (Have to modify DSDT , but I'm newbie here so it's hard for me)
-- Headphone Jack (Sound a little noisy)
+
+## Doesn't know Working
+- HDMI
+- Headphone Jack 
 
 ## BenchMark
 ![Screenshot 2021-06-13 at 12 52 06 PM](https://user-images.githubusercontent.com/85815874/121795848-0f843900-cc47-11eb-8b66-eff358a82c7d.png)
