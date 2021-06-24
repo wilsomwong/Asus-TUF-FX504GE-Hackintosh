@@ -20,7 +20,7 @@
 ## What's Working ?
 - [x] iGPU with disabled dGPU
 - [x] WiFi (100% Working) / Ethernet (I didn't try but i think it's working)
-- [x] Audio, Input/Mic, Output (Not working sometime , restart pc will solve problem)
+- [x] Audio, Input/Mic, Output (100 % working on lastest Opencore EFI)
 - [x] ACPI Display brightness with hot keys / slider
 - [x] Battery Management
 - [x] Sleep & Wake
@@ -28,7 +28,7 @@
 - [x] 3 ports Usb 3.1 
 - [x] Native hotkey support with Fn keys
 - [x] System Update
-- [x] Touchpad and gestures (Available in OpenCore 7.1 EFI)
+- [x] Touchpad and gestures (Available in lastest OpenCore EFI)
 
 
 ## Not Working
