@@ -2,9 +2,10 @@
 ### CATATAN: SAYA TIDAK BERTANGGUNGJAWAB UNTUK SEBARANG MASALAH JIKA ANDA MENGESAN PANDUAN SAYA.
 #### Jangan Gunakan kext Bluetooth (Masih belum serasi untuk MacOS Monterey)
 
-! [Tangkapan Skrin 2021-06-13 pada 12 41 31 PTG] (https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
+![Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
                                       ** Dekstop Saya dengan Mengenai Mac Ini **
-Baca ini dalam bahasa lain: [Bahasa Inggeris] (README.md), [Bahasa Cina (Mudah)] (README_zh_cn.md)
+                                      
+Baca ini dalam bahasa lain: [Bahasa Inggeris](README.md), [Bahasa Melayu](README_mly.md) , [Bahasa Cina (Ringkas)](README_zh_cn.md) , [Bahasa Cina (Tradisional)](README_zh_tw.md)
 
 ## Perkakasan (Spesifikasi Saya)
 - CPU (Pemproses): Intel Core i5-8300H CoffeeLake 8th
@@ -33,19 +34,18 @@ Baca ini dalam bahasa lain: [Bahasa Inggeris] (README.md), [Bahasa Cina (Mudah)]
 - [x] Hotspot dengan Penambatan USB (Terdapat dalam EFI OpenCore terakhir)
 - [x] Kemas kini Sistem
 
-
 ## Tidak bekerja
 - Nvidia GTX1050Ti (Tidak disangka)
 - Bluetooth (Tunggu sahaja kext baru ke MacOS Monterey yang serasi, masukan kext bluetooth terbaru yang sesuai untuk MacOS lain)
 
 ## Dalam proses untuk ujian berfungsi & Perbaiki senarai masalah
-- Jack fon kepala
+- Jack Headphone
 - Tidur & Bangun (Masalah Kematian Tidur ketika tidur terlalu lama)
 - WebCam (Tidak Bekerja selepas tidur)
-- AppleTV, AppleMusic dan lain-lain (masalah DRM)
+- AppleTV, Apple Music dan lain-lain (masalah DRM)
 
 ## BenchMark
-! [Tangkapan Skrin 2021-06-13 pada 12 52 06 PM] (https://user-images.githubusercontent.com/85815874/121795848-0f843900-cc47-11eb-8b66-eff358a82c7d.png)
+![Screenshot 2021-06-13 at 12 52 06 PM](https://user-images.githubusercontent.com/85815874/121795848-0f843900-cc47-11eb-8b66-eff358a82c7d.png)
 
 ## Kredit
 - Terima kasih khas kepada Acidanthera untuk sebilangan besar Kexts.
