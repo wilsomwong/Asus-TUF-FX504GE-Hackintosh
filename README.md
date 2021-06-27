@@ -23,4 +23,4 @@
 - Upgrade to OpenCore 7.1 (Beta) sucessfully.
 - Add "In processing for test working & Fix the problem list" and update information in read.md (MacOs Monterey).
 ### 27 Jun 2021
-- Add languge Melayu , Chinese (Simplified), Chinese (Tradisional) in MacOS Monterey README file.
+- Add language Melayu , Chinese (Simplified), Chinese (Tradisional) in MacOS Monterey README file.
