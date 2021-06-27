@@ -4,6 +4,9 @@
 
 ![Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
                                       ** My Dekstop with About This Mac **
+## Language
+- English
+- Chinese (Simplified)
 
 ## Hardware (My Spec)
 - CPU (Processor) : Intel Core i5-8300H CoffeeLake 8th
@@ -41,7 +44,7 @@
 - Headphone Jack
 - Sleep & Wake (Sleep Death Problem when sleep too long time)
 - WebCam (Not Working after sleep)
-- AppleTV,AppleMusic and more have some bug (DRM problem)
+- AppleTV , AppleMusic and others (DRM problem)
 
 ## BenchMark
 ![Screenshot 2021-06-13 at 12 52 06 PM](https://user-images.githubusercontent.com/85815874/121795848-0f843900-cc47-11eb-8b66-eff358a82c7d.png)
