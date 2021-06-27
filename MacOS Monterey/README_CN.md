@@ -47,7 +47,7 @@
 - 网络摄像头 (当睡眠并睡醒后不工作)
 - AppleTV , AppleMusic 和其他 (DRM 问题)
 
-## 基分/跑分
+## 基分 / 跑分
 ![Screenshot 2021-06-13 at 12 52 06 PM](https://user-images.githubusercontent.com/85815874/121795848-0f843900-cc47-11eb-8b66-eff358a82c7d.png)
 
 ## 资料来源于
