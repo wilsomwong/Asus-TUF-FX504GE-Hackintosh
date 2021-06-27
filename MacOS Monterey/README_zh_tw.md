@@ -4,6 +4,7 @@
 
 ![截圖 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
                                       ** 我的桌面與關於這台 Mac **
+                                      
 用其他語言閱讀：[英文](README.md) , [馬來文](RRADME_mly.md) , [簡體中文](README_zh_cn.md) , [繁體中文](README_zh-tw.md)
 
 ## 硬件（我的規格）
