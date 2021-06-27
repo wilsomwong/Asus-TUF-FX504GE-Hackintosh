@@ -5,7 +5,7 @@
 ![Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
                                       ** Dekstop Saya dengan Mengenai Mac Ini **
                                       
-Baca ini dalam bahasa lain: [Bahasa Inggeris](README.md), [Bahasa Melayu](README_mly.md) , [Bahasa Cina (Ringkas)](README_zh_cn.md) , [Bahasa Cina (Tradisional)](README_zh_tw.md)
+Baca ini dalam bahasa lain: [Bahasa Inggeris](README.md) , [Bahasa Melayu](README_mly.md) , [Bahasa Cina (Ringkas)](README_zh_cn.md) , [Bahasa Cina (Tradisional)](README_zh_tw.md)
 
 ## Perkakasan (Spesifikasi Saya)
 - CPU (Pemproses): Intel Core i5-8300H CoffeeLake 8th
