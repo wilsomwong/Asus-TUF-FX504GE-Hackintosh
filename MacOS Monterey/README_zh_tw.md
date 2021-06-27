@@ -19,7 +19,7 @@
 - BIOS 系統：雙啟動 MacOS Monterey + Windows 10
 - 觸摸板：ELAN I2C
 
-## 什麼在起作用？
+## 什麼在起作用 ？
 - [x] 禁用 dGPU 的 iGPU
 - [x] WiFi（100% 工作）/以太網（我沒有嘗試，但我認為它工作正常）
 - [x] 音頻/麥克風輸入、輸出（100% 使用最新的 Opencore EFI）
@@ -44,10 +44,10 @@
 - 網絡攝像頭（睡眠後不工作）
 - AppleTV、AppleMusic 等（DRM 問題）
 
-＃＃ 基準
+## 跑分
 ![截圖 2021-06-13 at 12 52 06 PM](https://user-images.githubusercontent.com/85815874/121795848-0f843900-cc47-11eb-8b66-eff358a82c7d.png)
 
-## 跑分
+## 資料來源於
 - 特別感謝 Acidanthera 提供了大部分 Kext。
 - 感謝 OpenCore 引導加載程序。
 - 感謝 daliansky 提供 Airportitlwm 和藍牙 kext。
@@ -56,6 +56,6 @@
 - 感謝 hackintosh-stuff 對 ALC255 的 ComboJack 支持。
 - 感謝名為“Hackintosh”、“我和我的黑蘋果”的 Facebook 社群。
 
-＃＃ 最後一件事 ..
+## 最後一件事 ..
 - 我很高興社區可以幫助我們解決無法工作的問題！！
 - 如果解決了任何問題，請給我發封電子郵件以幫助我更新 GITHUB 中的文件夾。
