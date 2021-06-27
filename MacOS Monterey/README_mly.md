@@ -1,6 +1,6 @@
 # Asus-TUF-FX504GE
 ### CATATAN: SAYA TIDAK BERTANGGUNGJAWAB UNTUK SEBARANG MASALAH JIKA ANDA MENGESAN PANDUAN SAYA.
-#### Jangan Gunakan kext Bluetooth (Masih belum serasi untuk MacOS Monterey)
+#### Gunakan kext Bluetooth Asli (BLinjector, BLfirmware) untuk MacOS lain, MacOS Monterey bluetooth kext hanya penyelesaian sementara （Versi Alpha）.
 
 ![Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
                                       ** Dekstop Saya dengan Mengenai Mac Ini **
@@ -22,6 +22,7 @@ Baca ini dalam bahasa lain: [Bahasa Inggeris](README.md) , [Bahasa Melayu](READM
 ## Apa Yang Berfungsi?
 - [x] iGPU dengan dGPU yang dilumpuhkan
 - [x] WiFi (100% Bekerja) / Ethernet (Saya tidak mencuba tetapi saya rasa ia berfungsi)
+- [x] Bluetooth (kext hanya untuk Monterey)
 - [x] Input Audio / Mic, Output (100% berfungsi pada EFI Opencore terakhir)
 - [x] Jack Headphone (bunyi retak di Youtube tetapi video dalaman berfungsi dengan baik)
 - [x] Kecerahan paparan ACPI dengan butang panas / gelangsar
@@ -36,7 +37,6 @@ Baca ini dalam bahasa lain: [Bahasa Inggeris](README.md) , [Bahasa Melayu](READM
 
 ## Tidak bekerja
 - Nvidia GTX1050Ti (Tidak disangka)
-- Bluetooth (Tunggu sahaja kext baru ke MacOS Monterey yang serasi, masukan kext bluetooth terbaru yang sesuai untuk MacOS lain)
 
 ## Dalam proses untuk ujian berfungsi & Perbaiki senarai masalah
 - Jack Headphone
