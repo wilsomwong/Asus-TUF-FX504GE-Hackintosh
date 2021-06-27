@@ -6,7 +6,7 @@
                                       ** My Dekstop with About This Mac **
 ## Language
 - English
-- Chinese (Simplified) (/.github/README_CN.md)
+- Chinese (Simplified) (https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README_CN.md)
 
 ## Hardware (My Spec)
 - CPU (Processor) : Intel Core i5-8300H CoffeeLake 8th
