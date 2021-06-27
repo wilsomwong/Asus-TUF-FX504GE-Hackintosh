@@ -13,15 +13,17 @@
 ## Update Logs
 ### 13 Jun 2021
 - Create folder for MacOS Monterey (Beta) and waiting for fixing bug.
+- 
 ### 17 Jun 2021
 - Create new folder (OpenCore 6.5 EFI) that more stable from Opencore 7.0 EFI.
-- Fixed trackpad , audio and more problem.
-- Stuck at OpenCore 6.5 version , can't upgrade to OpenCore 7.0.
+- Fixed trackpad , audio and others problem.
+
 ### 24 Jun 2021
 - Create new folder (OpenCore 7.1 EFI) improve version from Opencore 6.5 EFI and delete the OpenCore 6.5 EFI.
-- Fixed HDMI working , but HDMI sound not working. 
-- Upgrade to OpenCore 7.1 (Beta) sucessfully.
-- Add "In processing for test working & Fix the problem list" and update information in read.md (MacOs Monterey).
+- Fixed HDMI (Video) working . 
+- Upgrade to OpenCore 7.1 (Beta).
+- Add new list and update information in read.md (MacOs Monterey).
+- 
 ### 27 Jun 2021
 - Update information in read.md (MacOS Monterey)
 - Add language Melayu , Chinese (Simplified), Chinese (Tradisional) in MacOS Monterey README file.
