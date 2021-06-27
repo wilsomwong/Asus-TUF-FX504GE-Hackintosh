@@ -6,7 +6,7 @@
                                       ** My Dekstop with About This Mac **
 ## Language
 - English
-- Chinese (Simplified)
+- Chinese (Simplified) (/.github/README_CN.md)
 
 ## Hardware (My Spec)
 - CPU (Processor) : Intel Core i5-8300H CoffeeLake 8th
