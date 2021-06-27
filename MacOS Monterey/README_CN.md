@@ -2,7 +2,7 @@
 ### 注意：如果你弄乱了我的指南，我不会对任何问题负责。
 #### 请不要使用蓝牙的 Kexts （目前依然不支持 MacOS 蒙特雷）
 
-！[Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
+![Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
                                       ** 我的桌面和我的 Mac **
                           
 ## 语言
