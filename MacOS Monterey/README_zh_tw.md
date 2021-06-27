@@ -1,6 +1,6 @@
 # 華碩飞行堡垒（TUF-FX504GE）
 ### 注意：如果你弄亂了我的指南，我不會對任何問題負責。
-#### 不要使用藍牙kexts（它仍然不兼容MacOS Monterey）
+#### 其他MacOS使用原裝藍牙（BLinjector，BLfirmware）kext，MacOS Monterey藍牙kext臨時解決方案（Alpha版）。
 
 ![截圖 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
                                       ** 我的桌面與關於這台 Mac **
@@ -22,6 +22,7 @@
 ## 什麼在起作用 ？
 - [x] 禁用 dGPU 的 iGPU
 - [x] WiFi（100% 工作）/以太網（我沒有嘗試，但我認為它工作正常）
+- [x] 藍牙（kext 僅適用於 Monterey） 
 - [x] 音頻/麥克風輸入、輸出（100% 使用最新的 Opencore EFI）
 - [x] 耳機插孔（Youtube 上有聲音，但內部視頻工作正常）
 - [x] ACPI 顯示亮度與熱鍵/滑塊
@@ -36,7 +37,6 @@
 
 ## 不工作
 - Nvidia GTX1050Ti（不支持）
-- 藍牙（等待新的 kext 到兼容的 MacOS Monterey，輸入最新的藍牙 kext 可兼容另一個 MacOS）
 
 ## 正在處理測試工作並修復問題列表
 - 耳機插孔
