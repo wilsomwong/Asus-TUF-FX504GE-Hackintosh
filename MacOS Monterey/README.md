@@ -20,7 +20,8 @@
 ## What's Working ?
 - [x] iGPU with disabled dGPU
 - [x] WiFi (100% Working) / Ethernet (I didn't try but i think it's working)
-- [x] Audio, Input/Mic, Output (100 % working on lastest Opencore EFI)
+- [x] Audio/Mic Input, Output (100 % working on lastest Opencore EFI)
+- [x] Headphone Jack (sound crack on Youtube but internal video is working fine)
 - [x] ACPI Display brightness with hot keys / slider
 - [x] Battery Management
 - [x] Sleep & Wake 
@@ -37,7 +38,7 @@
 - Bluetooth (Just wait new kext to compatible MacOS Monterey , input latest bluetooth kext compitable for another MacOS)
 
 ## In processing for test working & Fix the problem list 
-- Headphone Jack (Waiting for TEST)
+- Headphone Jack
 - Sleep & Wake (Sleep Death Problem when sleep too long time)
 - WebCam (Not Working after sleep)
 - AppleTV,AppleMusic and more have some bug (DRM problem)
