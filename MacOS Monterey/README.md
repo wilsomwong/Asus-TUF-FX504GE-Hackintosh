@@ -4,9 +4,9 @@
 
 ![Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
                                       ** My Dekstop with About This Mac **
-## Language
-- English
-- Chinese (Simplified) (https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README_CN.md)
+## Read this in other language
+- [English](README.md)
+- [Chinese (Simplified)](README_CN.md)
 
 ## Hardware (My Spec)
 - CPU (Processor) : Intel Core i5-8300H CoffeeLake 8th
