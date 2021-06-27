@@ -1,6 +1,6 @@
-# 華碩-TUF-FX504GE
+# 華碩飞行堡垒（TUF-FX504GE）
 ### 注意：如果你弄亂了我的指南，我不會對任何問題負責。
-####不要使用藍牙kexts（它仍然不兼容MacOS Monterey）
+#### 不要使用藍牙kexts（它仍然不兼容MacOS Monterey）
 
 ![截圖 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
                                       ** 我的桌面與關於這台 Mac **
