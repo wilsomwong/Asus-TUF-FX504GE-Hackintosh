@@ -1,6 +1,6 @@
 # 华硕飞行堡垒第 5 代 (FX-504GE)
 ### 注意：如果你弄乱了我的指南，我不会对任何问题负责。
-#### 请不要使用蓝牙的 Kexts （目前依然不支持 MacOS 蒙特雷）
+#### 其他MacOS使用原装蓝牙（BLinjector，BLfirmware）kext，MacOS Monterey蓝牙kext临时解决方案（Alpha版）。
 
 ![Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
                                       ** 我的桌面和我的 Mac **
@@ -22,6 +22,7 @@
 ## 什么是运作的 ?
 - [x] 禁用独立显卡只用内置显卡
 - [x] WiFi (100% 运作) / 以太网 (我没尝试，但我认为有在工作)
+- [x] 蓝牙（kext 仅适用于 Monterey） 
 - [x] 音频/麦克风 输入, 输出 (100 % 运作当使用最新的 Opencore EFI)
 - [x] 耳机插孔 (油管上只有背景声微人声 ，但在内置视频没问题)
 - [x] ACPI 荧幕显示亮度与热键 / 滑块
@@ -37,7 +38,6 @@
 
 ## 无法运作
 - Nvidia GTX1050Ti (不支持)
-- 蓝牙 (等待新的 kext 兼容 MacOS 蒙特雷 , 输入最新的 kext 兼容其他的 MacOS)
 
 ## 政治处理和测试工作 & 修复问题列表
 - 耳机插孔
