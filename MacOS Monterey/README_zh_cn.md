@@ -5,9 +5,7 @@
 ![Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
                                       ** 我的桌面和我的 Mac **
                           
-## 语言
-- [英语](README.md)
-- [华语 (简体)](README_zh_cn.md)
+* 看这个说明在其他语言 : [英语](README.md) , [华语 (简体)](README_zh_cn.md)
 
 ## 硬件 (我的配置)
 - CPU (处理器) : Intel Core i5-8300H CoffeeLake 8th
