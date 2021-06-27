@@ -6,8 +6,8 @@
                                       ** 我的桌面和我的 Mac **
                           
 ## 语言
-- 英语
-- 华语 (简体)
+- [英语](README.md)
+- [华语 (简体)](README_zh_cn.md)
 
 ## 硬件 (我的配置)
 - CPU (处理器) : Intel Core i5-8300H CoffeeLake 8th
