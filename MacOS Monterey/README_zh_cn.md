@@ -5,7 +5,7 @@
 ![Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
                                       ** 我的桌面和我的 Mac **
                           
-* 看这个说明在其他语言 : [英语](README.md) , [华语 (简体)](README_zh_cn.md)
+* 看这个说明在其他语言 : [英文](README.md) , [中文 (简体)](README_zh_cn.md) ， [中文 (繁体)](README_zh_tw.md)
 
 ## 硬件 (我的配置)
 - CPU (处理器) : Intel Core i5-8300H CoffeeLake 8th
@@ -23,7 +23,7 @@
 - [x] 禁用独立显卡只用内置显卡
 - [x] WiFi (100% 运作) / 以太网 (我没尝试，但我认为有在工作)
 - [x] 音频/麦克风 输入, 输出 (100 % 运作当使用最新的 Opencore EFI)
-- [x] 耳机插孔 (Youtube 上只有背景声微人声 ，但在内置视频没问题)
+- [x] 耳机插孔 (油管上只有背景声微人声 ，但在内置视频没问题)
 - [x] ACPI 荧幕显示亮度与热键 / 滑块
 - [x] 电源管理
 - [x] 睡眠与唤醒 
