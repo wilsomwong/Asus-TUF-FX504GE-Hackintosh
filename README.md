@@ -23,7 +23,7 @@
 - Fixed HDMI (Video) working . 
 - Upgrade to OpenCore 7.1 (Beta).
 - Add new list and update information in read.md (MacOs Monterey).
-- 
+
 ### 27 Jun 2021
 - Update information in read.md (MacOS Monterey)
 - Add language Melayu , Chinese (Simplified), Chinese (Tradisional) in MacOS Monterey README file.
