@@ -23,5 +23,6 @@
 - Upgrade to OpenCore 7.1 (Beta) sucessfully.
 - Add "In processing for test working & Fix the problem list" and update information in read.md (MacOs Monterey).
 ### 27 Jun 2021
+- Update information in read.md (MacOS Monterey)
 - Add language Melayu , Chinese (Simplified), Chinese (Tradisional) in MacOS Monterey README file.
 - Bluetooth in MacOS Monterey working (Alpha Version)
