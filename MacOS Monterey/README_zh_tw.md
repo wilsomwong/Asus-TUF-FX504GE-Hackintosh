@@ -4,7 +4,7 @@
 
 ![截圖 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
                                       ** 我的桌面與關於這台 Mac **
-* 用其他語言閱讀：[English](README.md) , [Chinese (Simplified)](README_zh_cn.md) , [Chinese(Traditional)](README_zh-tw.md)
+* 用其他語言閱讀：[英文](README.md) , [簡體中文](README_zh_cn.md) , [繁體中文](README_zh-tw.md)
 
 ## 硬件（我的規格）
 - CPU（處理器）：Intel Core i5-8300H CoffeeLake 8th
@@ -53,7 +53,7 @@
 - 感謝 alexandred 的 VoodooI2C。
 - 感謝 RehabMan 提供 ACPI 修補指南。
 - 感謝 hackintosh-stuff 對 ALC255 的 ComboJack 支持。
-- 感謝名為“Hackintosh”、“我和我的黑蘋果”的 Facebook 頁面。
+- 感謝名為“Hackintosh”、“我和我的黑蘋果”的 Facebook 社群。
 
 ＃＃ 最後一件事 ..
 - 我很高興社區可以幫助我們解決無法工作的問題！！
