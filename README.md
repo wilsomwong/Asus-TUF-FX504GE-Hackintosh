@@ -8,16 +8,14 @@
 - I hope anyone can help us to create a PERFECT EFI to Asus TUF FX504GE Hackintosh.                           
   (This also my purpose to create this repositories)
 
-** If I change my laptop , I'll not upgrade this repositories anymore. **
-
 ## Update Logs
-### 13 Jun 2021
-- Create folder for MacOS Monterey (Beta) and waiting for fixing bug.
-- Create folder for MacOS Bigsur
+### 28 Jun 2021
+- Add "Project' function to transperent my fixing process.
 
-### 17 Jun 2021
-- Create new folder (OpenCore 6.5 EFI) that more stable from Opencore 7.0 EFI.
-- Fixed trackpad , audio and others problem in lastest Opencore EFI.
+### 27 Jun 2021
+- Update information in read.md (MacOS Monterey).
+- Add language Melayu , Chinese (Simplified), Chinese (Tradisional) in MacOS Monterey README file.
+- Bluetooth in MacOS Monterey lastest Opencore EFI working (Alpha Version).
 
 ### 24 Jun 2021
 - Create new folder (OpenCore 7.1 EFI) improve version from Opencore 6.5 EFI and delete the OpenCore 6.5 EFI.
@@ -26,10 +24,15 @@
 - Upgrade to OpenCore 7.1 (Beta).
 - Add new list and update information in read.md (MacOs Monterey).
 
-### 27 Jun 2021
-- Update information in read.md (MacOS Monterey).
-- Add language Melayu , Chinese (Simplified), Chinese (Tradisional) in MacOS Monterey README file.
-- Bluetooth in MacOS Monterey lastest Opencore EFI working (Alpha Version).
+### 17 Jun 2021
+- Create new folder (OpenCore 6.5 EFI) that more stable from Opencore 7.0 EFI.
+- Fixed trackpad , audio and others problem in lastest Opencore EFI.
 
-### 28 Jun 2021
-- Add "Project' function to transperent my fixing process.
+### 13 Jun 2021
+- Create folder for MacOS Monterey (Beta) and waiting for fixing bug.
+- Create folder for MacOS Bigsur
+
+
+
+
+
