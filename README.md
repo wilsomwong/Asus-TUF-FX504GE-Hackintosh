@@ -9,9 +9,6 @@
   (This also my purpose to create this repositories)
 
 ## Update Logs
-### 28 Jun 2021
-- Add "Project' function to transperent my fixing process.
-
 ### 27 Jun 2021
 - Update information in read.md (MacOS Monterey).
 - Add language Melayu , Chinese (Simplified), Chinese (Tradisional) in MacOS Monterey README file.
