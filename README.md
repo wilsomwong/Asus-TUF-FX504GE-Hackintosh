@@ -30,3 +30,6 @@
 - Update information in read.md (MacOS Monterey).
 - Add language Melayu , Chinese (Simplified), Chinese (Tradisional) in MacOS Monterey README file.
 - Bluetooth in MacOS Monterey lastest Opencore EFI working (Alpha Version).
+
+### 28 Jun 2021
+- Add "Project' function to transperent my fixing process.
