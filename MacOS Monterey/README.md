@@ -59,3 +59,5 @@ Read this  in other language : [English](README.md) , [Malay](README_mly.md) , [
 ## Last Thing ..
 - I'm glad about community can help us to solve what can't working !! 
 - If any problem solved , Pls inbox me email for help me to update my folder in GITHUB.
+
+[![GitHub version](https://img.shields.io/badge/OpenCore-0.7.0-brightgreen)](https://github.com/acidanthera/OpenCorePkg)
