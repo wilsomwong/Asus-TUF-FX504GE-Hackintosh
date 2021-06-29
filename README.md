@@ -11,6 +11,7 @@
 ## Update Logs
 ### 29 Jun 2021
 - Fix headphone jack noise problem in lastest Opencore EFI.
+- Upgrade UHD630 VRAM to 4096MB.
 
 ### 28 Jun 2021
 - Add Discussions sections for community.
