@@ -9,6 +9,9 @@
   (This also my purpose to create this repositories)
 
 ## Update Logs
+### 29 Jun 2021
+- Fix headphone jack noise problem in lastest Opencore EFI.
+
 ### 28 Jun 2021
 - Add Discussions sections for community.
 
