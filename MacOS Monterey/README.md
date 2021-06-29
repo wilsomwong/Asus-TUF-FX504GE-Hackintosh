@@ -17,14 +17,14 @@ Read this  in other language : [English](README.md) , [Malay](https://github.com
 - SoundBoard : Realtek ALC255
 - WIFI / Bluetooth : Intel Wireless AC9560
 - BIOS System : Dualboot MacOS Monterey + Windows 10
-- Touchpad : ELAN I2C
+- Touchpad : ELAN I2C (HID)
 
 ## What's Working ?
 - [x] iGPU with disabled dGPU
 - [x] WiFi (100% Working) / Ethernet (I didn't try but i think it's working)
 - [x] Bluetooth (kext only for Monterey)
 - [x] Audio/Mic Input, Output (100 % working on lastest Opencore EFI)
-- [x] Headphone Jack (sound crack on Youtube but internal video is working fine)
+- [x] 3.5mm Headphone Jack 
 - [x] ACPI Display brightness with hot keys / slider
 - [x] Battery Management
 - [x] Sleep & Wake 
@@ -39,7 +39,6 @@ Read this  in other language : [English](README.md) , [Malay](https://github.com
 - Nvidia GTX1050Ti (Not suppoted)
 
 ## In processing for test working & Fix the problem list 
-- Headphone Jack
 - Sleep & Wake (Sleep Death Problem when sleep too long time)
 - WebCam (Not Working after sleep)
 - AppleTV , AppleMusic and others (DRM problem)
