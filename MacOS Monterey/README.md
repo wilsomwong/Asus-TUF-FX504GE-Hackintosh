@@ -40,7 +40,6 @@ Read this  in other language : [English](README.md) , [Malay](https://github.com
 - Nvidia GTX1050Ti (Not suppoted)
 
 ## In processing for test working & Fix the problem list 
-- [ ] Sleep & Wake (Sleep Death Problem when sleep too long time)
 - [ ] WebCam (Not Working after sleep)
 - [ ] AppleTV , AppleMusic and others (DRM problem)
 
