@@ -9,6 +9,9 @@
   (This also my purpose to create this repositories)
 
 ## Update Logs
+### 3 July 2021
+- Fix HDMI Audio but HDMI Video become not too stable.
+
 ### 29 Jun 2021
 - Fix headphone jack noise problem in lastest Opencore EFI.
 - Fix Sleep Dead Problem.
