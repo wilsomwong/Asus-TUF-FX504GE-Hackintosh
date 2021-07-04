@@ -61,4 +61,4 @@ Read this  in other language : [English](README.md) , [Malay](https://github.com
 #
 [![GitHub version](https://img.shields.io/badge/OpenCore-0.7.0-brightgreen)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/tree/main/MacOS%20Monterey/OpenCore%207.0%20EFI)
 [![GitHub version](https://img.shields.io/badge/OpenCore-0.7.1-brightgreen)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/tree/main/MacOS%20Monterey/OpenCore%207.1%20EFI)
-
+[![Gitter](https://badges.gitter.im/Hackintosh-for-Asus-TUF-FX504/community.svg)](https://gitter.im/Hackintosh-for-Asus-TUF-FX504/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
