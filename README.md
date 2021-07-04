@@ -9,6 +9,9 @@
   (This also my purpose to create this repositories)
 
 ## Update Logs
+### 4 July 2021
+- Open Gitter for anyone to chat.
+
 ### 3 July 2021
 - Fix HDMI Audio but HDMI Video become not too stable.
 
