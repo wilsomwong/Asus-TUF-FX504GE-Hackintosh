@@ -9,6 +9,9 @@
   (This also my purpose to create this repositories)
 
 ## Update Logs
+### 7 July 2021
+- Fix HDMI stable.
+- 
 ### 4 July 2021
 - Open Gitter for anyone to chat.
 [![Gitter](https://badges.gitter.im/Hackintosh-for-Asus-TUF-FX504/community.svg)](https://gitter.im/Hackintosh-for-Asus-TUF-FX504/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
