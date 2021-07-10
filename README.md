@@ -3,7 +3,7 @@
 - Well Unfortunately , I have change my laptop after 1 month I create GitHub and upload my EFI Hackintosh file.
 - It mean , this will be the last update in this repositories.
 - Thanks for all to help me and giving me some link to let me build the almost complete hackintosh in this laptop.
-- If any want to combritute this , pls inform me in email below and help this hackintosh laptop never gonna die.
+- If anyone want to contributor this , pls inform me in email below and help this laptop never gonna die in hackintosh.
 
  ## Announcement
 - Thanks for visit my Hackintosh repositories !
