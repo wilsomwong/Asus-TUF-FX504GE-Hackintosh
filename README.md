@@ -1,5 +1,11 @@
 # About Asus-TUF-FX504GE-Hackintosh 
-## Announcement
+## Discountinue
+- Well Unfortunately , I have change my laptop after 1 month I create GitHub and upload my EFI Hackintosh file.
+- It mean , this will be the last update in this repositories.
+- Thanks for all to help me and giving me some link to let me build the almost complete hackintosh in this laptop.
+- If any want to combritute this , pls inform me in email below and help this hackintosh laptop never gonna die.
+
+ ## Announcement
 - Thanks for visit my Hackintosh repositories !
 - Im a Newbie Hackintosher for a well time , so this time i'll share all to your about this computer file.
 - I'll Update my repositories if have anything problem fix or system update.
@@ -9,6 +15,9 @@
   (This also my purpose to create this repositories)
 
 ## Update Logs
+### 10 July 2021
+- End of Era ! there will not update in this laptop anymore.
+
 ### 7 July 2021
 - Fix HDMI stable.
 
