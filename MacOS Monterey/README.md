@@ -34,7 +34,7 @@ Read this  in other language : [English](README.md) , [Malay](https://github.com
 - [x] Native hotkey support with Fn keys
 - [x] Touchpad and gestures (Available in lastest OpenCore EFI) 
 - [x] Hotspot with USB Tethering (Available in lastest OpenCore EFI) 
-- [x] System Update
+- [x] System Update (has some problem,gonna fix later)
 
 ## Not Working
 - Nvidia GTX1050Ti (Not suppoted)
