@@ -15,6 +15,9 @@
   (This also my purpose to create this repositories)
 
 ## Update Logs
+### 5 Aug 2021
+-Fixed Intel ® Wireless-AC 9560ac.
+
 ### 10 July 2021
 - End of Era ! there will not update in this laptop anymore or maybe update in a long time.
 
