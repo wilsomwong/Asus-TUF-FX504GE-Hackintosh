@@ -48,7 +48,7 @@
 ## 基准
 ![截图 2021-06-13 at 12 52 06 PM](https://user-images.githubusercontent.com/85815874/121795848-0f843900-cc47-11eb-8b66-eff358a82c7d.png)
 
-## 贡献
+## 贡献 / 跑分
 - 特别感谢 Acidanthera 提供了大部分 Kext。
 - 感谢 OpenCore 引导加载程序。
 - 感谢 daliansky 提供 Airportitlwm 和蓝牙 kext。
