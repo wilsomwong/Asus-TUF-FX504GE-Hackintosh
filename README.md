@@ -19,7 +19,7 @@
 - Update all the language Read.me in MacOS Monterey.
 
 ### 5 Aug 2021
-- Fixed Intel ® Wireless-AC 9560ac. (Thanks )
+- Fixed Intel ® Wireless-AC 9560ac. (Thanks BicffQ for helping)
 
 ### 7 July 2021
 - Fix HDMI stable.
