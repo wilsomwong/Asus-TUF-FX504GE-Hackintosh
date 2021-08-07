@@ -34,14 +34,16 @@ Read this  in other language : [English](README.md) , [Malay](https://github.com
 - [x] Native hotkey support with Fn keys
 - [x] Touchpad and gestures (Available in lastest OpenCore EFI) 
 - [x] Hotspot with USB Tethering (Available in lastest OpenCore EFI) 
-- [x] System Update (has some problem,gonna fix later)
+- [x] System Update 
 
 ## Not Working
 - Nvidia GTX1050Ti (Not suppoted)
 
 ## In processing for test working & Fix the problem list 
+- [ ] System Update (Has some problem , gonna fix later)
+- [ ] Bluetooth (Cannot Open Bluetooth after sleep , wait until Stable version come out ..)
 - [ ] WebCam (Not Working after sleep)
-- [ ] AppleTV , AppleMusic and others (DRM problem)
+- [ ] AppleTV , AppleMusic and others (DRM problem , No solution until now)
 
 ## BenchMark
 ![Screenshot 2021-06-13 at 12 52 06 PM](https://user-images.githubusercontent.com/85815874/121795848-0f843900-cc47-11eb-8b66-eff358a82c7d.png)
