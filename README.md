@@ -15,8 +15,11 @@
   (This also my purpose to create this repositories)
 
 ## Update Logs
+### 8 Aug 2021
+- Update all the language Read.me in MacOS Monterey.
+
 ### 5 Aug 2021
-- Fixed Intel ® Wireless-AC 9560ac.
+- Fixed Intel ® Wireless-AC 9560ac. (Thanks )
 
 ### 7 July 2021
 - Fix HDMI stable.
