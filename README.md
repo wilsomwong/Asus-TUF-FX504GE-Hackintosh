@@ -16,7 +16,7 @@
 
 ## Update Logs
 ### 8 Aug 2021
-- Update all the language Read.me in MacOS Monterey.
+- Update all the language README files in MacOS Monterey.
 
 ### 5 Aug 2021
 - Fixed Intel ® Wireless-AC 9560ac. (Thanks BiCffQ for helping)
