@@ -2,6 +2,7 @@
 ## Discountinue (or continue ?)
 - Well Unfortunately , I have change my laptop after 1 month I create GitHub and upload my EFI Hackintosh file.
 - It mean , this will be the last update (not really will be last update) in this repositories.
+- I will update if I have some time or have big update , so not really this is my last update.
 - Thanks for all to help me and giving me some link to let me build the almost complete hackintosh in this laptop.
 - If anyone want to contributor this , Just pull requests .
 
