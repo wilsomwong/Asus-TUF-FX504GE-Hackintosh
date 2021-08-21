@@ -5,7 +5,7 @@
 ![Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
                                       ** Dekstop Saya dengan Mengenai Mac Ini **
                                       
-Baca ini dalam bahasa lain: [Bahasa Inggeris](README.md), [Bahasa Melayu](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README/README_mly.md ), [Bahasa Cina (Ringkas)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README/README_zh_cn.md), [Cina (Tradisional)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README/README_zh_tw.md)
+Baca ini dalam bahasa lain: [Bahasa Inggeris](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README.md), [Bahasa Melayu](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README/README_mly.md ), [Bahasa Cina (Ringkas)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README/README_zh_cn.md), [Cina (Tradisional)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README/README_zh_tw.md)
 #### ** Maklumat kemas kini bahasa lain akan ditangguhkan.
 
 ## Perkakasan (Spesifikasi Saya)
