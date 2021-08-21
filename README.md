@@ -16,6 +16,9 @@
   (This also my purpose to create this repositories)
 
 ## Update Logs
+### 22 Aug 2021
+-Update some language bug in README files.
+
 ### 8 Aug 2021
 - Update all the language README files in MacOS Monterey.
 
