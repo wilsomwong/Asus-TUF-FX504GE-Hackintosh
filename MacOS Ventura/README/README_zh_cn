@@ -1,1 +1,65 @@
+# 华硕-TUF-FX504GE
+### 注意：如果您弄乱了我的指南，我将不对任何问题负责。
 
+![ScreenShot](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Ventura/README/Pictures/Screenshot%202022-11-04%20at%209.47.32%20PM .png)
+![ScreenShot](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Ventura/README/Pictures/Screenshot%202022-11-04%20at%209.51.19%20PM .png)
+                                ** My Dekstop 与 About This Mac 和新功能 Stage Manager **
+
+用其他语言阅读：[English](README.md) 
+#### ** 其他语言更新信息会延迟。
+
+## 硬件（我的规格）
+- CPU（处理器）：英特尔酷睿 i5-8300H CoffeeLake 8th
+- GPU（内部显卡）：Intel Graphics UHD630
+- dGPU（外置显卡）：Nvidia GTX1050Ti（4GB GDDR5 VRAM）
+- 内存：DDR4 12GB 2400MHz
+- 存储：1TB HDD + 256GB SSD
+- 屏幕：15.6 英寸全高清 60Hz (1920 x 1080)
+- 音板：Realtek ALC255
+- WIFI / 蓝牙：英特尔无线 AC9560
+- BIOS 系统：双启动 MacOS Monterey + Windows 10
+- 触控板：ELAN I2C (HID)
+
+## 什么在起作用？
+- [x] 禁用 dGPU 的 iGPU
+- [x] WiFi（测试版仍然不太稳定）/以太网
+- [x] 蓝牙（kext 仅适用于 Ventura，它的 Beta 版仍然不太稳定）
+- [x] 音频/麦克风输入、输出（100% 使用最新的 Opencore EFI）
+- [x] 3.5 毫米耳机插孔
+- [x] ACPI 显示亮度与热键/滑块
+- [x] 电池管理
+- [x] 睡眠和唤醒
+- [x] 网络摄像头
+- [x] 3 个端口 Usb 3.1 和 HDMI 端口（HDMI 声音也可以）
+- [x] 使用 Fn 键支持本机热键
+- [x] 触摸板和手势（在最新的 OpenCore EFI 中可用）
+- [x] 带 USB 网络共享的热点（在最新的 OpenCore EFI 中可用）
+- [x] 系统更新
+
+## 不工作
+- Nvidia GTX1050Ti（不支持）
+
+## 正在处理测试工作并修复问题列表
+- [ ] 网络摄像头（睡眠后不工作）
+- [ ] AppleTV、AppleMusic 和其他（DRM 问题，直到现在还没有解决方案）
+
+＃＃ 跑分
+![Screenshot 2021-06-13 下午 12 52 06](https://user-images.githubusercontent.com/85815874/121795848-0f843900-cc47-11eb-8b66-eff358a82c7d.png)
+
+## 贡献
+- 特别感谢 Acidanthera 的大部分 Kexts。
+- 感谢 OpenCore 引导加载程序。
+- 感谢 daliansky 提供 Airportitlwm 和蓝牙 kext。
+- 感谢亚历山大对 VoodooI2C 的贡献。
+- 感谢 RehabMan 提供 ACPI 修补指南。
+- 感谢 hackintosh-stuff 对 ALC255 的 ComboJack 支持。
+- 感谢名为“Hackintosh”、“我和我的黑苹果”的 Facebook 页面。
+
+＃＃ 最后一件事 ..
+- 我很高兴社区可以帮助我们解决无法解决的问题！
+- 如果有任何问题解决了，请收件箱给我发邮件，帮助我更新我在 GITHUB 中的文件夹。
+#
+[![GitHub version](https://img.shields.io/badge/OpenCore-0.7.0(Monterey)-brightgreen)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/tree/main/MacOS%20Monterey/OpenCore%207.0%20EFI)
+[![GitHub version](https://img.shields.io/badge/OpenCore-0.7.1(Monterey)-brightgreen)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/tree/main/MacOS%20Monterey/OpenCore%207.1%20EFI)
+[![GitHub version](https://img.shields.io/badge/OpenCore-0.8.3(Ventura)-brightgreen)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/tree/main/MacOS%20Ventura)
+[![Gitter](https://badges.gitter.im/Hackintosh-for-Asus-TUF-FX504/community.svg)](https://gitter.im/Hackintosh-for-Asus-TUF-FX504/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
