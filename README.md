@@ -16,6 +16,11 @@
   (This also my purpose to create this repositories)
 
 ## Update Logs
+### 4 Nov 2022
+- Create folder for MacOS Ventura and waiting for fixing bug but it already stable i think.
+  (For More Details Read README files in Vertura folder.)
+- Create folder for MacOS Ventura
+
 ### 22 Aug 2021
 - Update some language bug in README files.
 
