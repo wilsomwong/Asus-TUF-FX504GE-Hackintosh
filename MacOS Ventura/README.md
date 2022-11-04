@@ -1,11 +1,10 @@
 # Asus-TUF-FX504GE
 ### NOTE : I WON'T NOT RESPONSIBLE FOR ANY PROBLEM IF U MESS MY GUIDE.
-#### Use Original Bluetooth (BLinjector , BLfirmware) kext for other MacOS , MacOS Monterey bluetooth kext temporarily solution only（Alpha version）.
 
 ![Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
                                       ** My Dekstop with About This Mac **
                                       
-Read this  in other language : [English](README.md) , [Malay](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README/README_mly.md) , [Chinese (Simplified)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README/README_zh_cn.md) , [Chinese (Traditional)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README/README_zh_tw.md)
+Read this  in other language : [English](README.md) 
 #### ** Other language update information will delay.
 
 ## Hardware (My Spec)
@@ -22,15 +21,15 @@ Read this  in other language : [English](README.md) , [Malay](https://github.com
 
 ## What's Working ?
 - [x] iGPU with disabled dGPU
-- [x] WiFi (100% Working) / Ethernet (I didn't try but i think it's working)
-- [x] Bluetooth (kext only for Monterey)
+- [x] WiFi (Beta Version still not too stable) / Ethernet 
+- [x] Bluetooth (kext only for Ventura and it's Beta Version still not too stable)
 - [x] Audio/Mic Input, Output (100 % working on lastest Opencore EFI)
 - [x] 3.5mm Headphone Jack 
 - [x] ACPI Display brightness with hot keys / slider
 - [x] Battery Management
 - [x] Sleep & Wake 
 - [x] WebCam 
-- [x] 3 ports Usb 3.1 & HDMI port (HDMI working in latest Opencore EFI)
+- [x] 3 ports Usb 3.1 & HDMI port (HDMI Sound also works)
 - [x] Native hotkey support with Fn keys
 - [x] Touchpad and gestures (Available in lastest OpenCore EFI) 
 - [x] Hotspot with USB Tethering (Available in lastest OpenCore EFI) 
@@ -40,8 +39,6 @@ Read this  in other language : [English](README.md) , [Malay](https://github.com
 - Nvidia GTX1050Ti (Not suppoted)
 
 ## In processing for test working & Fix the problem list 
-- [ ] System Update (Has some problem , gonna fix later)
-- [ ] Bluetooth (Cannot Open Bluetooth after sleep , wait until Stable version come out ..)
 - [ ] WebCam (Not Working after sleep)
 - [ ] AppleTV , AppleMusic and others (DRM problem , No solution until now)
 
