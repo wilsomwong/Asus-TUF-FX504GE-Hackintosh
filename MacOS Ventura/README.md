@@ -1,6 +1,6 @@
 # Asus-TUF-FX504GE
 ### NOTE : I WON'T NOT RESPONSIBLE FOR ANY PROBLEM IF U MESS MY GUIDE.
-#
+
 ![Screenshot](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Ventura/README/Pictures/Screenshot%202022-11-04%20at%209.47.32%20PM.png)
 ![Screenshot](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Ventura/README/Pictures/Screenshot%202022-11-04%20at%209.51.19%20PM.png)
                                         ** My Dekstop with About This Mac **
