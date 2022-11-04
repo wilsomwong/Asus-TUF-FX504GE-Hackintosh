@@ -1,4 +1,7 @@
 # About Asus-TUF-FX504GE-Hackintosh 
+
+<img src="https://giphy.com/gifs/laptop-rotoscope-macbook-d3MLdIYIHup9Q2xG" align="center" style="width: 300%" />
+
 ## Discountinue (or continue ?)
 - Well Unfortunately , I have change my laptop after 1 month I create GitHub and upload my EFI Hackintosh file.
 - It mean , this will be the last update (not really will be last update) in this repositories.
