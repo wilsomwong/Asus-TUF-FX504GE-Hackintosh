@@ -1,4 +1,4 @@
-# Asus-TUF-FX504GE
+# Asus-TUF-FX504GE Monterey Hackintosh
 ### NOTE : I WON'T NOT RESPONSIBLE FOR ANY PROBLEM IF U MESS MY GUIDE.
 #### Use Original Bluetooth (BLinjector , BLfirmware) kext for other MacOS , MacOS Monterey bluetooth kext temporarily solution only（Alpha version）.
 
