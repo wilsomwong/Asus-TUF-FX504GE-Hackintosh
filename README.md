@@ -1,6 +1,6 @@
 # About Asus-TUF-FX504GE-Hackintosh 
 
-![Macos](https://media.giphy.com/media/d3MLdIYIHup9Q2xG/giphy.gif)
+  ![Macos](https://media.giphy.com/media/d3MLdIYIHup9Q2xG/giphy.gif)
 
 ## Discountinue (or continue ?)
 - Well Unfortunately , I have change my laptop after 1 month I create GitHub and upload my EFI Hackintosh file.
