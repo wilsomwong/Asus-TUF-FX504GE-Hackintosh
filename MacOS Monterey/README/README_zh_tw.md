@@ -61,6 +61,7 @@
 - 我很高興社區可以幫助我們解決無法工作的問題！！
 - 如果解決了任何問題，請收件箱給我發電子郵件，以幫助我更新 GITHUB 中的文件夾。
 #
-[![GitHub version](https://img.shields.io/badge/OpenCore-0.7.0-brightgreen)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/tree/main/MacOS%20Monterey/OpenCore%207.0%20EFI)
-[![GitHub version](https://img.shields.io/badge/OpenCore-0.7.1-brightgreen)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/tree/main/MacOS%20Monterey/OpenCore%207.1%20EFI)
+[![GitHub version](https://img.shields.io/badge/OpenCore-0.7.0(Monterey)-brightgreen)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/tree/main/MacOS%20Monterey/OpenCore%207.0%20EFI)
+[![GitHub version](https://img.shields.io/badge/OpenCore-0.7.1(Monterey)-brightgreen)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/tree/main/MacOS%20Monterey/OpenCore%207.1%20EFI)
+[![GitHub version](https://img.shields.io/badge/OpenCore-0.8.3(Ventura)-brightgreen)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/tree/main/MacOS%20Ventura)
 [![Gitter](https://badges.gitter.im/Hackintosh-for-Asus-TUF-FX504/community.svg)](https://gitter.im/Hackintosh-for-Asus-TUF-FX504/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
