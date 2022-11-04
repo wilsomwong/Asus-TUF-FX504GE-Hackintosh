@@ -1,8 +1,9 @@
 # Asus-TUF-FX504GE
 ### NOTE : I WON'T NOT RESPONSIBLE FOR ANY PROBLEM IF U MESS MY GUIDE.
 
-![Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
-                                      ** My Dekstop with About This Mac **
+![Screenshot](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Ventura/README/Pictures/Screenshot%202022-11-04%20at%209.47.32%20PM.png)
+![Screenshot](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Ventura/README/Pictures/Screenshot%202022-11-04%20at%209.51.19%20PM.png)
+                                        ** My Dekstop with About This Mac **
                                       
 Read this  in other language : [English](README.md) 
 #### ** Other language update information will delay.
