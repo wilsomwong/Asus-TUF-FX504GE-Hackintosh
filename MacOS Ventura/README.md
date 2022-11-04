@@ -1,69 +1,66 @@
-# About Asus-TUF-FX504GE-Hackintosh 
-## Discountinue (or continue ?)
-- Well Unfortunately , I have change my laptop after 1 month I create GitHub and upload my EFI Hackintosh file.
-- It mean , this will be the last update (not really will be last update) in this repositories.
-- I will update if I have some time or have big update , so not really this is my last update.
-- Thanks for all to help me and giving me some link to let me build the almost complete hackintosh in this laptop.
-- If anyone want to contributor this , Just pull requests .
+# Asus-TUF-FX504GE
+### NOTE : I WON'T NOT RESPONSIBLE FOR ANY PROBLEM IF U MESS MY GUIDE.
+#### Use Original Bluetooth (BLinjector , BLfirmware) kext for other MacOS , MacOS Monterey bluetooth kext temporarily solution only（Alpha version）.
 
- ## Announcement
-- Thanks for visit my Hackintosh repositories !
-- Im a Newbie Hackintosher for a well time , so this time i'll share all to your about this computer file.
-- I'll Update my repositories if have anything problem fix or system update.
-- If any problem been fix pls email me for help me update my folder in GITHUB !                           
-  Email : wilsomwong040727@gmail.com
-- I hope anyone can help us to create a PERFECT EFI to Asus TUF FX504GE Hackintosh.                           
-  (This also my purpose to create this repositories)
+![Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
+                                      ** My Dekstop with About This Mac **
+                                      
+Read this  in other language : [English](README.md) , [Malay](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README/README_mly.md) , [Chinese (Simplified)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README/README_zh_cn.md) , [Chinese (Traditional)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README/README_zh_tw.md)
+#### ** Other language update information will delay.
 
-## Update Logs
-### 22 Aug 2021
-- Update some language bug in README files.
+## Hardware (My Spec)
+- CPU (Processor) : Intel Core i5-8300H CoffeeLake 8th
+- GPU (Internal Graphics Card) : Intel Graphics UHD630
+- dGPU (External Graphics Card) : Nvidia GTX1050Ti (4GB GDDR5 VRAM)
+- RAM : DDR4 12GB 2400MHz
+- Storage : 1TB HDD + 256GB SSD
+- Screen : 15.6" Full HD 60Hz (1920 x 1080) 
+- SoundBoard : Realtek ALC255
+- WIFI / Bluetooth : Intel Wireless AC9560
+- BIOS System : Dualboot MacOS Monterey + Windows 10
+- Touchpad : ELAN I2C (HID)
 
-### 8 Aug 2021
-- Update all the language README files in MacOS Monterey.
+## What's Working ?
+- [x] iGPU with disabled dGPU
+- [x] WiFi (100% Working) / Ethernet (I didn't try but i think it's working)
+- [x] Bluetooth (kext only for Monterey)
+- [x] Audio/Mic Input, Output (100 % working on lastest Opencore EFI)
+- [x] 3.5mm Headphone Jack 
+- [x] ACPI Display brightness with hot keys / slider
+- [x] Battery Management
+- [x] Sleep & Wake 
+- [x] WebCam 
+- [x] 3 ports Usb 3.1 & HDMI port (HDMI working in latest Opencore EFI)
+- [x] Native hotkey support with Fn keys
+- [x] Touchpad and gestures (Available in lastest OpenCore EFI) 
+- [x] Hotspot with USB Tethering (Available in lastest OpenCore EFI) 
+- [x] System Update 
 
-### 5 Aug 2021
-- Fixed Intel ® Wireless-AC 9560ac. (Thanks BiCffQ for helping)
+## Not Working
+- Nvidia GTX1050Ti (Not suppoted)
 
-### 7 July 2021
-- Fix HDMI stable.
+## In processing for test working & Fix the problem list 
+- [ ] System Update (Has some problem , gonna fix later)
+- [ ] Bluetooth (Cannot Open Bluetooth after sleep , wait until Stable version come out ..)
+- [ ] WebCam (Not Working after sleep)
+- [ ] AppleTV , AppleMusic and others (DRM problem , No solution until now)
 
-### 4 July 2021
-- Open Gitter for anyone to chat.
+## BenchMark
+![Screenshot 2021-06-13 at 12 52 06 PM](https://user-images.githubusercontent.com/85815874/121795848-0f843900-cc47-11eb-8b66-eff358a82c7d.png)
+
+## Credits
+- Special Thanks to Acidanthera for most of the Kexts.
+- Thanks to OpenCore Bootloader.
+- Thanks to daliansky for Airportitlwm and Bluetooth kext.
+- Thanks to alexandred for VoodooI2C.
+- Thanks to RehabMan for ACPI patching guides.
+- Thanks to hackintosh-stuff for ComboJack support for ALC255.
+- Thanks to Facebook Page called "Hackintosh" , "我和我的黑苹果“.
+
+## Last Thing ..
+- I'm glad about community can help us to solve what can't working !! 
+- If any problem solved , Pls inbox me email for help me to update my folder in GITHUB.
+#
+[![GitHub version](https://img.shields.io/badge/OpenCore-0.7.0-brightgreen)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/tree/main/MacOS%20Monterey/OpenCore%207.0%20EFI)
+[![GitHub version](https://img.shields.io/badge/OpenCore-0.7.1-brightgreen)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/tree/main/MacOS%20Monterey/OpenCore%207.1%20EFI)
 [![Gitter](https://badges.gitter.im/Hackintosh-for-Asus-TUF-FX504/community.svg)](https://gitter.im/Hackintosh-for-Asus-TUF-FX504/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-### 3 July 2021
-- Fix HDMI Audio but HDMI Video become not too stable.
-
-### 29 Jun 2021
-- Fix headphone jack noise problem in lastest Opencore EFI.
-- Fix Sleep Dead Problem.
-- Upgrade UHD630 VRAM to 4096MB.
-
-### 28 Jun 2021
-- Add Discussions sections for community.
-
-### 27 Jun 2021
-- Update information in read.md (MacOS Monterey).
-- Add language Melayu , Chinese (Simplified), Chinese (Tradisional) in MacOS Monterey README file.
-- Bluetooth in MacOS Monterey lastest Opencore EFI working (Alpha Version).
-
-### 24 Jun 2021
-- Create new folder (OpenCore 7.1 EFI) improve version from Opencore 6.5 EFI and delete the OpenCore 6.5 EFI.
-- Delete MacOS Bigsur Folder.
-- Fixed HDMI (Video) working in lastest Opencore EFI . 
-- Upgrade to OpenCore 7.1 (Beta).
-- Add new list and update information in read.md (MacOs Monterey).
-
-### 17 Jun 2021
-- Create new folder (OpenCore 6.5 EFI) that more stable from Opencore 7.0 EFI.
-- Fixed trackpad , audio and others problem in lastest Opencore EFI.
-
-### 13 Jun 2021
-- Create folder for MacOS Monterey (Beta) and waiting for fixing bug.
-- Create folder for MacOS Bigsur
-
-
-
-
-
