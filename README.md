@@ -17,6 +17,7 @@
 
 ## Update Logs
 ### 4 Nov 2022
+- Update README files in all folder.
 - Create folder for MacOS Ventura and waiting for fixing bug.
   (For More Details Read README files in Vertura folder)
 - Create folder for MacOS Ventura
