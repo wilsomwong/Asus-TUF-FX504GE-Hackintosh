@@ -3,7 +3,9 @@
 #### Use Original Bluetooth (BLinjector , BLfirmware) kext for other MacOS , MacOS Monterey bluetooth kext temporarily solution only（Alpha version）.
 
 ![Screenshot 2021-06-13 at 12 41 31 PM](https://user-images.githubusercontent.com/85815874/121795795-971d7800-cc46-11eb-9afa-556592a81087.png)
-                                      ** My Dekstop with About This Mac **
+ <p align="center">
+  ** My Dekstop with About This Mac **
+</p>              
                                       
 Read this  in other language : [English](README.md) , [Malay](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README/README_mly.md) , [Chinese (Simplified)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README/README_zh_cn.md) , [Chinese (Traditional)](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Monterey/README/README_zh_tw.md)
 #### ** Other language update information will delay.
