@@ -3,11 +3,11 @@
   ![Macos](https://media.giphy.com/media/d3MLdIYIHup9Q2xG/giphy.gif)
 
 ## Discountinue (or continue ?)
-- Well Unfortunately , I have change my laptop after 1 month I create GitHub and upload my EFI Hackintosh file.
-- It mean , this will be the last update (not really will be last update) in this repositories.
-- I will update if I have some time or have big update , so not really this is my last update.
-- Thanks for all to help me and giving me some link to let me build the almost complete hackintosh in this laptop.
-- If anyone want to contributor this , Just pull requests .
+Well Unfortunately , I have change my laptop after 1 month I create GitHub and upload my EFI Hackintosh file.
+It mean , this will be the last update (not really will be last update) in this repositories.
+I will update if I have some time or have big update , so not really this is my last update.
+Thanks for all to help me and giving me some link to let me build the almost complete hackintosh in this laptop.
+If anyone want to contributor this , Just pull requests .
 
  ## Announcement
 - Thanks for visit my Hackintosh repositories !
@@ -17,6 +17,10 @@
   Email : wilsomwong040727@gmail.com
 - I hope anyone can help us to create a PERFECT EFI to Asus TUF FX504GE Hackintosh.                           
   (This also my purpose to create this repositories)
+
+## BIG Announcement !
+Don't use Monterey file because have many bug and can't update system .
+Just download Ventura EFI and update to Ventura for ensure stable, thanks !
 
 ## Update Logs
 ### 4 Nov 2022
