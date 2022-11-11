@@ -1,5 +1,4 @@
 # Asus-TUF-FX504GE Ventura Hackintosh
-
 ![Screenshot](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Ventura/README/Pictures/Screenshot%202022-11-04%20at%209.47.32%20PM.png)
 ![Screenshot](https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh/blob/main/MacOS%20Ventura/README/Pictures/Screenshot%202022-11-04%20at%209.51.19%20PM.png)
 <p align="center">
@@ -55,7 +54,7 @@ Read this in other language : [English](README.md)
 - Thanks to RehabMan for ACPI patching guides.
 - Thanks to hackintosh-stuff for ComboJack support for ALC255.
 - Thanks to Facebook Page called "Hackintosh" , "我和我的黑苹果“.
-- Reference to RobyRew.Thanks to him, he's been such a cool guy to me and the community!
+- Reference to RobyRew. Thanks to him, he's been such a cool guy to me and the community!
 RobyRew Github : https://github.com/RobyRew/ASUS-FX504GE-Hackintosh_OpenCore. 
 
 ## Last Thing ..
