@@ -56,6 +56,7 @@ Read this in other language : [English](README.md)
 - Thanks to RehabMan for ACPI patching guides.
 - Thanks to hackintosh-stuff for ComboJack support for ALC255.
 - Thanks to Facebook Page called "Hackintosh" , "我和我的黑苹果“.
+- Refer to RobyRew : https://github.com/RobyRew/ASUS-FX504GE-Hackintosh_OpenCore.
 
 ## Last Thing ..
 - I'm glad about community can help us to solve what can't working !! 
