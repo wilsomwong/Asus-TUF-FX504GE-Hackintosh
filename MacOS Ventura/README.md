@@ -55,7 +55,7 @@ Read this in other language : [English](README.md)
 - Thanks to hackintosh-stuff for ComboJack support for ALC255.
 - Thanks to Facebook Page called "Hackintosh" , "我和我的黑苹果“.
 - Reference to RobyRew. Thanks to him, he's been such a cool guy to me and the community!
-RobyRew Github : https://github.com/RobyRew/ASUS-FX504GE-Hackintosh_OpenCore. 
+https://github.com/RobyRew/ASUS-FX504GE-Hackintosh_OpenCore. 
 
 ## Last Thing ..
 - I'm glad about community can help us to solve what can't working !! 
