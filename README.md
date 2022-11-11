@@ -43,7 +43,6 @@ Just download Ventura EFI and update to Ventura for ensure stable, thanks !
 
 ### 4 July 2021
 - Open Gitter for anyone to chat.
-[![Gitter](https://badges.gitter.im/Hackintosh-for-Asus-TUF-FX504/community.svg)](https://gitter.im/Hackintosh-for-Asus-TUF-FX504/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ### 3 July 2021
 - Fix HDMI Audio but HDMI Video become not too stable.
